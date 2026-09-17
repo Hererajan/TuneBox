@@ -102,21 +102,14 @@ MusicPlayerApplication/
 
 ### **Build & Run Instructions**
 
-1.  **Navigate to the Source Directory**:
-    Open your terminal and navigate to the application's main folder.
-
-    ```sh
-    cd "TuneBox/C++ Code/MusicPlayerSystem/MusicPlayerApplication"
-    ```
-
-2.  **Compile the Application**:
+1.  **Compile the Application**:
     Use the following command to compile the source code into an executable file named `TuneBox`.
 
     ```sh
     g++ -std=c++11 -o TuneBox main.cpp
     ```
 
-3.  **Run the Program**:
+2.  **Run the Program**:
     Execute the compiled program to start the interactive session.
 
     ```sh
